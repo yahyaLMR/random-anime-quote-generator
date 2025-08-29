@@ -1,0 +1,2267 @@
+[
+  {
+    "anime": "Naruto",
+    "character": "Naruto Uzumaki",
+    "quote": "I'm not gonna run away, I never go back on my word! That's my nindo: my ninja way!"
+  },
+  {
+    "anime": "Naruto",
+    "character": "Kakashi Hatake",
+    "quote": "In the ninja world, those who break the rules are scum, but those who abandon their friends are worse than scum."
+  },
+  {
+    "anime": "Naruto",
+    "character": "Itachi Uchiha",
+    "quote": "People live their lives bound by what they accept as correct and true. That is how they define 'reality.'"
+  },
+  {
+    "anime": "Naruto",
+    "character": "Madara Uchiha",
+    "quote": "Wake up to reality! Nothing ever goes as planned in this world."
+  },
+  {
+    "anime": "Naruto",
+    "character": "Jiraiya",
+    "quote": "A lesson without pain is meaningless, that’s because you can’t gain something without sacrificing something in return."
+  },
+  {
+    "anime": "One Piece",
+    "character": "Monkey D. Luffy",
+    "quote": "If you don’t take risks, you can’t create a future!"
+  },
+  {
+    "anime": "One Piece",
+    "character": "Roronoa Zoro",
+    "quote": "When the world shoves you around, you just gotta stand up and shove back."
+  },
+  {
+    "anime": "One Piece",
+    "character": "Portgas D. Ace",
+    "quote": "We have to live a life of no regrets."
+  },
+  {
+    "anime": "One Piece",
+    "character": "Trafalgar Law",
+    "quote": "The weak don’t get to decide anything, not even how they die."
+  },
+  {
+    "anime": "One Piece",
+    "character": "Nico Robin",
+    "quote": "Fools who don’t respect the past are doomed to repeat it."
+  },
+  {
+    "anime": "Attack on Titan",
+    "character": "Levi Ackerman",
+    "quote": "The only thing we’re allowed to do is to believe that we won’t regret the choice we made."
+  },
+  {
+    "quote": "If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be.",
+    "character": "Naruto Uzumaki",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "Hard work is worthless for those that don't believe in themselves.",
+    "character": "Naruto Uzumaki",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "A place where someone still thinks about you is a place you can call home.",
+    "character": "Jiraiya",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "Knowing what it feels to be in pain, is exactly why we try to be kind to others.",
+    "character": "Jiraiya",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "Those who break the rules are scum, but those who abandon their friends are worse than scum.",
+    "character": "Kakashi Hatake",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "In society, those who don't have many abilities, tend to complain more.",
+    "character": "Madara Uchiha",
+    "anime": "Naruto: Shippuden"
+  },
+  {
+    "quote": "Wake up to reality! Nothing ever goes as planned in this accursed world.",
+    "character": "Madara Uchiha",
+    "anime": "Naruto: Shippuden"
+  },
+  {
+    "quote": "It’s human nature not to realize the true value of something, unless they lose it.",
+    "character": "Orochimaru",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "The concept of hope is nothing more than giving up. A word that holds no true meaning.",
+    "character": "Madara Uchiha",
+    "anime": "Naruto: Shippuden"
+  },
+  {
+    "quote": "Sometimes you must hurt in order to know, fall in order to grow, lose in order to gain because life’s greatest lessons are learned through pain.",
+    "character": "Pain",
+    "anime": "Naruto: Shippuden"
+  },
+  {
+    "quote": "The longer you live… The more you realize that reality is just made of pain, suffering and emptiness.",
+    "character": "Pain",
+    "anime": "Naruto: Shippuden"
+  },
+  {
+    "quote": "When a man learns to love, he must bear the risk of hatred.",
+    "character": "Pain",
+    "anime": "Naruto: Shippuden"
+  },
+  {
+    "quote": "I’m not gonna run away, I never go back on my word! That is my nindo: my ninja way!",
+    "character": "Naruto Uzumaki",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "A smile is the best way to get oneself out of a tight spot, even if it is a fake one.",
+    "character": "Itachi Uchiha",
+    "anime": "Naruto: Shippuden"
+  },
+  {
+    "quote": "People live their lives bound by what they accept as correct and true. That is how they define “reality”. But what does it mean to be “correct” or “true”?",
+    "character": "Itachi Uchiha",
+    "anime": "Naruto: Shippuden"
+  },
+  {
+    "quote": "Power is not will, it is the phenomenon of physically making things happen.",
+    "character": "Itachi Uchiha",
+    "anime": "Naruto: Shippuden"
+  },
+  {
+    "quote": "Growth occurs when one goes beyond one's limits. Realizing that is also part of training.",
+    "character": "Might Guy",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "A dropout will beat a genius through hard work.",
+    "character": "Rock Lee",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "Hard work is a talent in itself.",
+    "character": "Shikamaru Nara",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "How can you move forward if you keep regretting the past?",
+    "character": "Edward Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "A lesson without pain is meaningless. For you cannot gain something without sacrificing something else in return.",
+    "character": "Edward Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "There's no such thing as a painless lesson. They just don't exist. Sacrifices are necessary.",
+    "character": "Edward Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "Humans are not perfect. We call our mistakes 'sin'. But it is our flaws that make us human.",
+    "character": "Greed",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "A heart made fullmetal.",
+    "character": "Edward Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "Stand up and walk. Keep moving forward. You've got two good legs. So get up and use them.",
+    "character": "Riza Hawkeye",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "To know sorrow is not terrifying. What is terrifying is to know you can't go back to happiness you could have.",
+    "character": "Matsumoto Rangiku",
+    "anime": "Bleach"
+  },
+  {
+    "quote": "If you lift your head up high, the tears won't fall down.",
+    "character": "Orihime Inoue",
+    "anime": "Bleach"
+  },
+  {
+    "quote": "What is fear? Not being able to see the future? Or is it perhaps, being able to see it?",
+    "character": "Sosuke Aizen",
+    "anime": "Bleach"
+  },
+  {
+    "quote": "When you have something you want to protect, that's when you can become truly strong.",
+    "character": "Ichigo Kurosaki",
+    "anime": "Bleach"
+  },
+  {
+    "quote": "If fate is a millstone, then we are the grist. There is nothing we can do. So I wish for strength.",
+    "character": "Ichigo Kurosaki",
+    "anime": "Bleach"
+  },
+  {
+    "quote": "We are all like fireworks: we climb, we shine and always go our separate ways and become further apart.",
+    "character": "Hitsugaya Toshiro",
+    "anime": "Bleach"
+  },
+  {
+    "quote": "The difference between the novice and the master is that the master has failed more times than the novice has tried.",
+    "character": "Koro-sensei",
+    "anime": "Assassination Classroom"
+  },
+  {
+    "quote": "You said you didn't know where to go? I always thought that... the place you belong is always right by the side of the person you love.",
+    "character": "Koro-sensei",
+    "anime": "Assassination Classroom"
+  },
+  {
+    "quote": "You can't sit around envying other people's worlds. You have to go out and change your own.",
+    "character": "Shinichi Izumi",
+    "anime": "Parasyte: The Maxim"
+  },
+  {
+    "quote": "The only ones who should kill, are those who are prepared to be killed.",
+    "character": "Lelouch vi Britannia",
+    "anime": "Code Geass"
+  },
+  {
+    "quote": "The only ones who should kill are those who are prepared to be killed!",
+    "character": "Lelouch vi Britannia",
+    "anime": "Code Geass"
+  },
+  {
+    "quote": "I'm not a king, nor a god. I'm something much worse.",
+    "character": "Lelouch vi Britannia",
+    "anime": "Code Geass"
+  },
+  {
+    "quote": "In this world, evil can arise from the best of intentions. And there is good which can come from evil intentions.",
+    "character": "Lelouch vi Britannia",
+    "anime": "Code Geass"
+  },
+  {
+    "quote": "It's not the world that's imperfect. It is we who are imperfect.",
+    "character": "Lelouch vi Britannia",
+    "anime": "Code Geass"
+  },
+  {
+    "quote": "If the king doesn't move, then his subjects won't follow.",
+    "character": "Lelouch vi Britannia",
+    "anime": "Code Geass"
+  },
+  {
+    "quote": "The world is not beautiful, therefore it is.",
+    "character": "Jibril",
+    "anime": "No Game No Life"
+  },
+  {
+    "quote": "Life is not a game of luck. If you wanna win, work hard.",
+    "character": "Sora",
+    "anime": "No Game No Life"
+  },
+  {
+    "quote": "The moment you think of giving up, think of the reason why you held on so long.",
+    "character": "Natsu Dragneel",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "We don't have to know what tomorrow holds! That's why we can live for everything we're worth today!",
+    "character": "Natsu Dragneel",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be.",
+    "character": "Natsu Dragneel",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "Go beyond! Plus Ultra!",
+    "character": "All Might",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "It's fine now. Why? Because I am here!",
+    "character": "All Might",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "A hero can be anyone. Even a man doing something as simple and reassuring as putting a coat around a young boy's shoulders to let him know that the world hadn't ended.",
+    "character": "All Might",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "The world isn't perfect. But it's there for us, doing the best it can. That's what makes it so damn beautiful.",
+    "character": "Roy Mustang",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "A heart made fullmetal.",
+    "character": "Edward Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are.",
+    "character": "Mewtwo",
+    "anime": "Pokemon: The First Movie"
+  },
+  {
+    "quote": "The power of science is amazing!",
+    "character": "Professor Oak",
+    "anime": "Pokemon"
+  },
+  {
+    "quote": "Do not pray for an easy life, pray for the strength to endure a difficult one.",
+    "character": "Bruce Lee",
+    "anime": "Various (often misattributed, but a core theme in many)"
+  },
+  {
+    "quote": "I want to be the very best, like no one ever was.",
+    "character": "Ash Ketchum",
+    "anime": "Pokemon"
+  },
+  {
+    "quote": "Reject common sense to make the impossible possible.",
+    "character": "Simon",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "Don't believe in yourself. Believe in me! Believe in the Kamina who believes in you!",
+    "character": "Kamina",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "Your drill is the drill that will pierce the heavens!",
+    "character": "Kamina",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "Who the hell do you think I am?!",
+    "character": "Kamina",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "We evolve beyond the person that we were a minute before. Little by little, we advance with each turn. That's how a drill works!",
+    "character": "Simon",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "I'm so fucked up.",
+    "character": "Shinji Ikari",
+    "anime": "Neon Genesis Evangelion"
+  },
+  {
+    "quote": "The fate of destruction is also the joy of rebirth.",
+    "character": "Kaworu Nagisa",
+    "anime": "Neon Genesis Evangelion"
+  },
+  {
+    "quote": "Anywhere can be paradise as long as you have the will to live.",
+    "character": "Yui Ikari",
+    "anime": "Neon Genesis Evangelion"
+  },
+  {
+    "quote": "People cannot gain anything without sacrificing something. You must present something of equal value in order to gain something. That is the principle of equivalent exchange in alchemy.",
+    "character": "Alphonse Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "A lesson without pain is meaningless. For you cannot gain something without sacrificing something else in return.",
+    "character": "Edward Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "It's a terrible thing to be alone. It's so scary. To have no one to love you... that's just terrifying.",
+    "character": "Edward Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "There's no such thing as a painless lesson. They just don't exist. Sacrifices are necessary.",
+    "character": "Edward Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "A heart made fullmetal.",
+    "character": "Edward Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "The world isn't perfect. But it's there for us, doing the best it can. That's what makes it so damn beautiful.",
+    "character": "Roy Mustang",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "A man who can't bear to see a woman's tears is not a real man.",
+    "character": "Alex Louis Armstrong",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "It's not the world that's imperfect. It is we who are imperfect.",
+    "character": "Lelouch vi Britannia",
+    "anime": "Code Geass"
+  },
+  {
+    "quote": "The only ones who should kill are those who are prepared to be killed!",
+    "character": "Lelouch vi Britannia",
+    "anime": "Code Geass"
+  },
+  {
+    "quote": "I'm not a king, nor a god. I'm something much worse.",
+    "character": "Lelouch vi Britannia",
+    "anime": "Code Geass"
+  },
+  {
+    "quote": "In this world, evil can arise from the best of intentions. And there is good which can come from evil intentions.",
+    "character": "Lelouch vi Britannia",
+    "anime": "Code Geass"
+  },
+  {
+    "quote": "If the king doesn't move, then his subjects won't follow.",
+    "character": "Lelouch vi Britannia",
+    "anime": "Code Geass"
+  },
+  {
+    "quote": "I destroy the world and create it anew.",
+    "character": "Lelouch vi Britannia",
+    "anime": "Code Geass"
+  },
+  {
+    "quote": "The world is not beautiful, therefore it is.",
+    "character": "Jibril",
+    "anime": "No Game No Life"
+  },
+  {
+    "quote": "Life is not a game of luck. If you wanna win, work hard.",
+    "character": "Sora",
+    "anime": "No Game No Life"
+  },
+  {
+    "quote": "Chess is a game where you kill time by wasting it.",
+    "character": "Sora",
+    "anime": "No Game No Life"
+  },
+  {
+    "quote": "The moment you think of giving up, think of the reason why you held on so long.",
+    "character": "Natsu Dragneel",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "We don't have to know what tomorrow holds! That's why we can live for everything we're worth today!",
+    "character": "Natsu Dragneel",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be.",
+    "character": "Natsu Dragneel",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "Go beyond! Plus Ultra!",
+    "character": "All Might",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "It's fine now. Why? Because I am here!",
+    "character": "All Might",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "A hero can be anyone. Even a man doing something as simple and reassuring as putting a coat around a young boy's shoulders to let him know that the world hadn't ended.",
+    "character": "All Might",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "The world isn't perfect. But it's there for us, doing the best it can. That's what makes it so damn beautiful.",
+    "character": "Roy Mustang",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are.",
+    "character": "Mewtwo",
+    "anime": "Pokemon: The First Movie"
+  },
+  {
+    "quote": "The power of science is amazing!",
+    "character": "Professor Oak",
+    "anime": "Pokemon"
+  },
+  {
+    "quote": "Do not pray for an easy life, pray for the strength to endure a difficult one.",
+    "character": "Bruce Lee",
+    "anime": "Various (often misattributed, but a core theme in many)"
+  },
+  {
+    "quote": "I want to be the very best, like no one ever was.",
+    "character": "Ash Ketchum",
+    "anime": "Pokemon"
+  },
+  {
+    "quote": "Reject common sense to make the impossible possible.",
+    "character": "Simon",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "Don't believe in yourself. Believe in me! Believe in the Kamina who believes in you!",
+    "character": "Kamina",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "Your drill is the drill that will pierce the heavens!",
+    "character": "Kamina",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "Who the hell do you think I am?!",
+    "character": "Kamina",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "We evolve beyond the person that we were a minute before. Little by little, we advance with each turn. That's how a drill works!",
+    "character": "Simon",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "I'm so fucked up.",
+    "character": "Shinji Ikari",
+    "anime": "Neon Genesis Evangelion"
+  },
+  {
+    "quote": "The fate of destruction is also the joy of rebirth.",
+    "character": "Kaworu Nagisa",
+    "anime": "Neon Genesis Evangelion"
+  },
+  {
+    "quote": "Anywhere can be paradise as long as you have the will to live.",
+    "character": "Yui Ikari",
+    "anime": "Neon Genesis Evangelion"
+  },
+  {
+    "quote": "People cannot gain anything without sacrificing something. You must present something of equal value in order to gain something. That is the principle of equivalent exchange in alchemy.",
+    "character": "Alphonse Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "It's a terrible thing to be alone. It's so scary. To have no one to love you... that's just terrifying.",
+    "character": "Edward Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "A man who can't bear to see a woman's tears is not a real man.",
+    "character": "Alex Louis Armstrong",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "I destroy the world and create it anew.",
+    "character": "Lelouch vi Britannia",
+    "anime": "Code Geass"
+  },
+  {
+    "quote": "Chess is a game where you kill time by wasting it.",
+    "character": "Sora",
+    "anime": "No Game No Life"
+  },
+  {
+    "quote": "The world is not beautiful, therefore it is.",
+    "character": "Jibril",
+    "anime": "No Game No Life"
+  },
+  {
+    "quote": "Life is not a game of luck. If you wanna win, work hard.",
+    "character": "Sora",
+    "anime": "No Game No Life"
+  },
+  {
+    "quote": "The moment you think of giving up, think of the reason why you held on so long.",
+    "character": "Natsu Dragneel",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "We don't have to know what tomorrow holds! That's why we can live for everything we're worth today!",
+    "character": "Natsu Dragneel",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be.",
+    "character": "Natsu Dragneel",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "Go beyond! Plus Ultra!",
+    "character": "All Might",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "It's fine now. Why? Because I am here!",
+    "character": "All Might",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "A hero can be anyone. Even a man doing something as simple and reassuring as putting a coat around a young boy's shoulders to let him know that the world hadn't ended.",
+    "character": "All Might",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "The world isn't perfect. But it's there for us, doing the best it can. That's what makes it so damn beautiful.",
+    "character": "Roy Mustang",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are.",
+    "character": "Mewtwo",
+    "anime": "Pokemon: The First Movie"
+  },
+  {
+    "quote": "The power of science is amazing!",
+    "character": "Professor Oak",
+    "anime": "Pokemon"
+  },
+  {
+    "quote": "Do not pray for an easy life, pray for the strength to endure a difficult one.",
+    "character": "Bruce Lee",
+    "anime": "Various (often misattributed, but a core theme in many)"
+  },
+  {
+    "quote": "I want to be the very best, like no one ever was.",
+    "character": "Ash Ketchum",
+    "anime": "Pokemon"
+  },
+  {
+    "quote": "Reject common sense to make the impossible possible.",
+    "character": "Simon",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "Don't believe in yourself. Believe in me! Believe in the Kamina who believes in you!",
+    "character": "Kamina",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "Your drill is the drill that will pierce the heavens!",
+    "character": "Kamina",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "Who the hell do you think I am?!",
+    "character": "Kamina",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "We evolve beyond the person that we were a minute before. Little by little, we advance with each turn. That's how a drill works!",
+    "character": "Simon",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "I'm so fucked up.",
+    "character": "Shinji Ikari",
+    "anime": "Neon Genesis Evangelion"
+  },
+  {
+    "quote": "The fate of destruction is also the joy of rebirth.",
+    "character": "Kaworu Nagisa",
+    "anime": "Neon Genesis Evangelion"
+  },
+  {
+    "quote": "Anywhere can be paradise as long as you have the will to live.",
+    "character": "Yui Ikari",
+    "anime": "Neon Genesis Evangelion"
+  },
+  {
+    "quote": "People cannot gain anything without sacrificing something. You must present something of equal value in order to gain something. That is the principle of equivalent exchange in alchemy.",
+    "character": "Alphonse Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "It's a terrible thing to be alone. It's so scary. To have no one to love you... that's just terrifying.",
+    "character": "Edward Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "A man who can't bear to see a woman's tears is not a real man.",
+    "character": "Alex Louis Armstrong",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "I destroy the world and create it anew.",
+    "character": "Lelouch vi Britannia",
+    "anime": "Code Geass"
+  },
+  {
+    "quote": "Chess is a game where you kill time by wasting it.",
+    "character": "Sora",
+    "anime": "No Game No Life"
+  },
+  {
+    "quote": "The world is not beautiful, therefore it is.",
+    "character": "Jibril",
+    "anime": "No Game No Life"
+  },
+  {
+    "quote": "Life is not a game of luck. If you wanna win, work hard.",
+    "character": "Sora",
+    "anime": "No Game No Life"
+  },
+  {
+    "quote": "The moment you think of giving up, think of the reason why you held on so long.",
+    "character": "Natsu Dragneel",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "We don't have to know what tomorrow holds! That's why we can live for everything we're worth today!",
+    "character": "Natsu Dragneel",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be.",
+    "character": "Natsu Dragneel",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "Go beyond! Plus Ultra!",
+    "character": "All Might",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "It's fine now. Why? Because I am here!",
+    "character": "All Might",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "A hero can be anyone. Even a man doing something as simple and reassuring as putting a coat around a young boy's shoulders to let him know that the world hadn't ended.",
+    "character": "All Might",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "The world isn't perfect. But it's there for us, doing the best it can. That's what makes it so damn beautiful.",
+    "character": "Roy Mustang",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are.",
+    "character": "Mewtwo",
+    "anime": "Pokemon: The First Movie"
+  },
+  {
+    "quote": "The power of science is amazing!",
+    "character": "Professor Oak",
+    "anime": "Pokemon"
+  },
+  {
+    "quote": "Do not pray for an easy life, pray for the strength to endure a difficult one.",
+    "character": "Bruce Lee",
+    "anime": "Various (often misattributed, but a core theme in many)"
+  },
+  {
+    "quote": "I want to be the very best, like no one ever was.",
+    "character": "Ash Ketchum",
+    "anime": "Pokemon"
+  },
+  {
+    "quote": "Reject common sense to make the impossible possible.",
+    "character": "Simon",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "Don't believe in yourself. Believe in me! Believe in the Kamina who believes in you!",
+    "character": "Kamina",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "Your drill is the drill that will pierce the heavens!",
+    "character": "Kamina",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "Who the hell do you think I am?!",
+    "character": "Kamina",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "We evolve beyond the person that we were a minute before. Little by little, we advance with each turn. That's how a drill works!",
+    "character": "Simon",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "I'm so fucked up.",
+    "character": "Shinji Ikari",
+    "anime": "Neon Genesis Evangelion"
+  },
+  {
+    "quote": "The fate of destruction is also the joy of rebirth.",
+    "character": "Kaworu Nagisa",
+    "anime": "Neon Genesis Evangelion"
+  },
+  {
+    "quote": "Anywhere can be paradise as long as you have the will to live.",
+    "character": "Yui Ikari",
+    "anime": "Neon Genesis Evangelion"
+  },
+  {
+    "quote": "People cannot gain anything without sacrificing something. You must present something of equal value in order to gain something. That is the principle of equivalent exchange in alchemy.",
+    "character": "Alphonse Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "It's a terrible thing to be alone. It's so scary. To have no one to love you... that's just terrifying.",
+    "character": "Edward Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "A man who can't bear to see a woman's tears is not a real man.",
+    "character": "Alex Louis Armstrong",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "I destroy the world and create it anew.",
+    "character": "Lelouch vi Britannia",
+    "anime": "Code Geass"
+  },
+  {
+    "quote": "Chess is a game where you kill time by wasting it.",
+    "character": "Sora",
+    "anime": "No Game No Life"
+  },
+  {
+    "quote": "The world is not beautiful, therefore it is.",
+    "character": "Jibril",
+    "anime": "No Game No Life"
+  },
+  {
+    "quote": "Life is not a game of luck. If you wanna win, work hard.",
+    "character": "Sora",
+    "anime": "No Game No Life"
+  },
+  {
+    "quote": "The moment you think of giving up, think of the reason why you held on so long.",
+    "character": "Natsu Dragneel",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "We don't have to know what tomorrow holds! That's why we can live for everything we're worth today!",
+    "character": "Natsu Dragneel",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be.",
+    "character": "Natsu Dragneel",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "Go beyond! Plus Ultra!",
+    "character": "All Might",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "It's fine now. Why? Because I am here!",
+    "character": "All Might",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "A hero can be anyone. Even a man doing something as simple and reassuring as putting a coat around a young boy's shoulders to let him know that the world hadn't ended.",
+    "character": "All Might",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "The world isn't perfect. But it's there for us, doing the best it can. That's what makes it so damn beautiful.",
+    "character": "Roy Mustang",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are.",
+    "character": "Mewtwo",
+    "anime": "Pokemon: The First Movie"
+  },
+  {
+    "quote": "The power of science is amazing!",
+    "character": "Professor Oak",
+    "anime": "Pokemon"
+  },
+  {
+    "quote": "Do not pray for an easy life, pray for the strength to endure a difficult one.",
+    "character": "Bruce Lee",
+    "anime": "Various (often misattributed, but a core theme in many)"
+  },
+  {
+    "quote": "I want to be the very best, like no one ever was.",
+    "character": "Ash Ketchum",
+    "anime": "Pokemon"
+  },
+  {
+    "quote": "Reject common sense to make the impossible possible.",
+    "character": "Simon",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "Don't believe in yourself. Believe in me! Believe in the Kamina who believes in you!",
+    "character": "Kamina",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "Your drill is the drill that will pierce the heavens!",
+    "character": "Kamina",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "Who the hell do you think I am?!",
+    "character": "Kamina",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "We evolve beyond the person that we were a minute before. Little by little, we advance with each turn. That's how a drill works!",
+    "character": "Simon",
+    "anime": "Gurren Lagann"
+  },
+  {
+    "quote": "I'm so fucked up.",
+    "character": "Shinji Ikari",
+    "anime": "Neon Genesis Evangelion"
+  },
+  {
+    "quote": "The fate of destruction is also the joy of rebirth.",
+    "character": "Kaworu Nagisa",
+    "anime": "Neon Genesis Evangelion"
+  },
+  {
+    "quote": "Anywhere can be paradise as long as you have the will to live.",
+    "character": "Yui Ikari",
+    "anime": "Neon Genesis Evangelion"
+  },
+  {
+    "quote": "People cannot gain anything without sacrificing something. You must present something of equal value in order to gain something. That is the principle of equivalent exchange in alchemy.",
+    "character": "Alphonse Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "It's a terrible thing to be alone. It's so scary. To have no one to love you... that's just terrifying.",
+    "character": "Edward Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "A man who can't bear to see a woman's tears is not a real man.",
+    "character": "Alex Louis Armstrong",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "anime": "Attack on Titan",
+    "character": "Eren Yeager",
+    "quote": "If you win, you live. If you lose, you die. If you don’t fight, you can’t win!"
+  },
+  {
+    "anime": "Attack on Titan",
+    "character": "Mikasa Ackerman",
+    "quote": "This world is cruel, but it’s also very beautiful."
+  },
+  {
+    "anime": "Attack on Titan",
+    "character": "Erwin Smith",
+    "quote": "The only thing we're allowed to do is to believe we won't regret the choice we made."
+  },
+  {
+    "anime": "Death Note",
+    "character": "Light Yagami",
+    "quote": "I am Justice!"
+  },
+  {
+    "anime": "Death Note",
+    "character": "L",
+    "quote": "Being alone is better than being with the wrong person."
+  },
+  {
+    "anime": "Death Note",
+    "character": "Ryuk",
+    "quote": "Humans are so interesting."
+  },
+  {
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "character": "Edward Elric",
+    "quote": "A lesson without pain is meaningless. That’s because you can’t gain something without sacrificing something in return."
+  },
+  {
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "character": "Roy Mustang",
+    "quote": "A lesson in chasing dreams: sometimes, you have to burn everything to ash to move forward."
+  },
+  {
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "character": "Alphonse Elric",
+    "quote": "Humankind cannot gain anything without first giving something in return."
+  },
+  {
+    "anime": "Bleach",
+    "character": "Ichigo Kurosaki",
+    "quote": "If you give up, the game is already over."
+  },
+  {
+    "anime": "Bleach",
+    "character": "Rukia Kuchiki",
+    "quote": "We are taught never to shed tears, for to shed tears is to admit we have lost."
+  },
+  {
+    "anime": "Bleach",
+    "character": "Byakuya Kuchiki",
+    "quote": "A lesson in pride: even in defeat, a true warrior holds his head high."
+  },
+  {
+    "anime": "Dragon Ball Z",
+    "character": "Goku",
+    "quote": "Power comes in response to a need, not a desire. You have to create that need."
+  },
+  {
+    "anime": "Dragon Ball Z",
+    "character": "Vegeta",
+    "quote": "Push through the pain, giving up hurts more."
+  },
+  {
+    "anime": "Dragon Ball Z",
+    "character": "Piccolo",
+    "quote": "Sometimes, we have to look beyond what we want and do what’s best."
+  },
+  {
+    "anime": "Cowboy Bebop",
+    "character": "Spike Spiegel",
+    "quote": "Whatever happens, happens."
+  },
+  {
+    "anime": "Cowboy Bebop",
+    "character": "Jet Black",
+    "quote": "Humans were meant to work and sweat for their keep. Those that try to get rich quick or live at the expense of others all get divine retribution."
+  },
+  {
+    "anime": "Neon Genesis Evangelion",
+    "character": "Shinji Ikari",
+    "quote": "I'm not going to run away. I never go back on my word."
+  },
+  {
+    "anime": "Neon Genesis Evangelion",
+    "character": "Kaworu Nagisa",
+    "quote": "The value of a man is determined by how much he is loved by others."
+  },
+  {
+    "quote": "The world isn’t perfect. But it’s there for us, doing the best it can… that’s what makes it so damn beautiful.",
+    "character": "Roy Mustang",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be.",
+    "character": "Naruto Uzumaki",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "To know sorrow is not terrifying. What is terrifying is to know you can't go back to happiness you could have.",
+    "character": "Matsumoto Rangiku",
+    "anime": "Bleach"
+  },
+  {
+    "quote": "Whatever happens, happens.",
+    "character": "Spike Spiegel",
+    "anime": "Cowboy Bebop"
+  },
+  {
+    "quote": "I'm not going there to die. I'm going to find out if I'm really alive.",
+    "character": "Spike Spiegel",
+    "anime": "Cowboy Bebop"
+  },
+  {
+    "quote": "Don't believe in yourself. Believe in me! Believe in the Kamina who believes in you!",
+    "character": "Kamina",
+    "anime": "Tengen Toppa Gurren Lagann"
+  },
+  {
+    "quote": "If you wanna make people dream, you've gotta start by believing in that dream yourself!",
+    "character": "Seiya Kanie",
+    "anime": "Amagi Brilliant Park"
+  },
+  {
+    "quote": "The only thing we're allowed to do is to believe that we won't regret the choice we made.",
+    "character": "Levi Ackerman",
+    "anime": "Attack on Titan"
+  },
+  {
+    "quote": "People's lives don't end when they die. It ends when they lose faith.",
+    "character": "Itachi Uchiha",
+    "anime": "Naruto Shippuden"
+  },
+  {
+    "quote": "If you can't do something, then don't. Focus on what you can.",
+    "character": "Shiroe",
+    "anime": "Log Horizon"
+  },
+  {
+    "quote": "It's not a crime! To care for something that is precious to you!",
+    "character": "Meliodas",
+    "anime": "The Seven Deadly Sins"
+  },
+  {
+    "quote": "I am the hope of the universe. I am the answer to all living things that cry out for peace.",
+    "character": "Goku",
+    "anime": "Dragon Ball Z"
+  },
+  {
+    "quote": "There’s no shame in falling down! True shame is to not stand up again!",
+    "character": "Shintaro Midorima",
+    "anime": "Kuroko's Basketball"
+  },
+  {
+    "quote": "A lesson without pain is meaningless. For you cannot gain anything without sacrificing something else in return.",
+    "character": "Edward Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger.",
+    "character": "Gildarts Clive",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "The ticket to the future is always open.",
+    "character": "Vash the Stampede",
+    "anime": "Trigun"
+  },
+  {
+    "quote": "Sometimes, people are just mean. Don't fight mean with mean. Hold your head high.",
+    "character": "Tohru Honda",
+    "anime": "Fruits Basket"
+  },
+  {
+    "quote": "You should enjoy the little detours to the fullest. Because that's where you'll find the things more important than what you want.",
+    "character": "Ging Freecss",
+    "anime": "Hunter x Hunter"
+  },
+  {
+    "quote": "Being weak is nothing to be ashamed of... staying weak is!",
+    "character": "Fuegoleon Vermillion",
+    "anime": "Black Clover"
+  },
+  {
+    "quote": "To be a king is to be the most greedy of all. To laugh the loudest, and to be the most enraged. It is to be the one who masters all things, good and evil!",
+    "character": "Rider (Iskandar)",
+    "anime": "Fate/Zero"
+  },
+  {
+    "quote": "The world is cruel, but also very beautiful.",
+    "character": "Mikasa Ackerman",
+    "anime": "Attack on Titan"
+  },
+  {
+    "quote": "Hard work is worthless for those that don't believe in themselves.",
+    "character": "Naruto Uzumaki",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "Simplicity is the easiest path to true beauty.",
+    "character": "Sesshomaru",
+    "anime": "InuYasha"
+  },
+  {
+    "quote": "If you're gonna hit it, hit it until it breaks.",
+    "character": "Tooru Oikawa",
+    "anime": "Haikyuu!!"
+  },
+  {
+    "quote": "I want to be a hero that can save people with a smile!",
+    "character": "Izuku Midoriya (Deku)",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "The future belongs to those who believe in the beauty of their dreams.",
+    "character": "Shoyo Hinata",
+    "anime": "Haikyuu!!"
+  },
+  {
+    "quote": "No matter how deep the night, it always turns to day, eventually.",
+    "character": "Brook",
+    "anime": "One Piece"
+  },
+  {
+    "quote": "Those who break the rules are scum, but those who abandon their friends are worse than scum.",
+    "character": "Kakashi Hatake",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "I'll leave tomorrow's problems to tomorrow's me.",
+    "character": "Saitama",
+    "anime": "One-Punch Man"
+  },
+  {
+    "quote": "There is no such thing as a painless lesson, they just don't exist. Sacrifices are necessary.",
+    "character": "Erwin Smith",
+    "anime": "Attack on Titan"
+  },
+  {
+    "quote": "When you have to save someone, they're usually in a scary situation. A true hero saves not only their lives, but also their spirits.",
+    "character": "All Might",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "A true warrior... does not need a sword.",
+    "character": "Thors Snorresson",
+    "anime": "Vinland Saga"
+  },
+  {
+    "quote": "When you lose sight of your path, listen for the destination in your heart.",
+    "character": "Jiraiya",
+    "anime": "Naruto Shippuden"
+  },
+  {
+    "quote": "What is the point if those with the means and power do not fight?",
+    "character": "Eren Yeager",
+    "anime": "Attack on Titan"
+  },
+  {
+    "quote": "If you don't take risks, you can't create a future!",
+    "character": "Monkey D. Luffy",
+    "anime": "One Piece"
+  },
+  {
+    "quote": "It is not the world that is wrong, it is what is in it.",
+    "character": "Gendo Ikari",
+    "anime": "Neon Genesis Evangelion"
+  },
+  {
+    "quote": "Being lonely is more painful than getting hurt.",
+    "character": "Monkey D. Luffy",
+    "anime": "One Piece"
+  },
+  {
+    "quote": "Even if I die, you keep living. Okay?",
+    "character": "Satoru Gojo",
+    "anime": "Jujutsu Kaisen"
+  },
+  {
+    "quote": "Being a hero doesn't mean you're invincible. It just means you're brave enough to stand up and do what's needed.",
+    "character": "Izuku Midoriya (Deku)",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "The only ones who should kill are those who are prepared to be killed.",
+    "character": "Lelouch vi Britannia",
+    "anime": "Code Geass"
+  },
+  {
+    "quote": "People die when they are killed.",
+    "character": "Shirou Emiya",
+    "anime": "Fate/stay night"
+  },
+  {
+    "quote": "We have no choice but to live. No matter how tragic it is.",
+    "character": "Guts",
+    "anime": "Berserk"
+  },
+  {
+    "quote": "There are no regrets. If one can be proud of one's life, one should not wish for another chance.",
+    "character": "Saber (Artoria Pendragon)",
+    "anime": "Fate/stay night"
+  },
+  {
+    "quote": "It's not that I'm a pervert, I'm a super pervert!",
+    "character": "Jiraiya",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "There's more to a boy than a little brawn.",
+    "character": "Ash Ketchum",
+    "anime": "Pokémon"
+  },
+  {
+    "quote": "A heart's a heavy burden.",
+    "character": "Howl Pendragon",
+    "anime": "Howl's Moving Castle"
+  },
+  {
+    "quote": "Religion, ideology, resources, land, spite, love, or just because… No matter how pathetic the reason, it's enough to start a war.",
+    "character": "Pain (Nagato)",
+    "anime": "Naruto Shippuden"
+  },
+  {
+    "quote": "Maybe there’s only a dark road ahead. But you still have to believe and keep going. Believe that the stars will light your path, even a little bit.",
+    "character": "Kaori Miyazono",
+    "anime": "Your Lie in April"
+  },
+  {
+    "quote": "When you're ten, they call you a prodigy. When you're fifteen, they call you a genius. Once you're twenty, you're just an ordinary person.",
+    "character": "Haruka Nanase",
+    "anime": "Free!"
+  },
+  {
+    "quote": "Life is not a game of luck. If you wanna win, work hard.",
+    "character": "Sora",
+    "anime": "No Game No Life"
+  },
+  {
+    "quote": "There's no such thing as a miracle. There are only happenings, their causes, and their results.",
+    "character": "Yuko Ichihara",
+    "anime": "xxxHolic"
+  },
+  {
+    "quote": "Who decides if a man has the right to live? The law? God? No one has the right to judge another man.",
+    "character": "Kenshin Himura",
+    "anime": "Rurouni Kenshin"
+  },
+  {
+    "quote": "Humans die. Animals die. Plants die. Even stars die. It’s a universal law. But we, we immortals, are an exception.",
+    "character": "Homunculus",
+    "anime": "Fullmetal Alchemist"
+  },
+  {
+    "quote": "There is no heaven or hell. No matter what you do while you're alive, everybody goes to the same place once you die. Death is Equal.",
+    "character": "L",
+    "anime": "Death Note"
+  },
+  {
+    "quote": "In this world, there are things you can't take back, no matter how much you want to.",
+    "character": "Ciel Phantomhive",
+    "anime": "Black Butler"
+  },
+  {
+    "quote": "It is at the moment of death that I am most alive.",
+    "character": "Hisoka Morow",
+    "anime": "Hunter x Hunter"
+  },
+  {
+    "quote": "The weak don't get to choose how they die.",
+    "character": "Trafalgar D. Water Law",
+    "anime": "One Piece"
+  },
+  {
+    "quote": "I am not a genius. I am the result of my hard work.",
+    "character": "Rock Lee",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "I'll take a potato chip... and EAT IT!",
+    "character": "Light Yagami",
+    "anime": "Death Note"
+  },
+  {
+    "quote": "It takes a mere second for treasure to turn to trash.",
+    "character": "Gilgamesh",
+    "anime": "Fate/Zero"
+  },
+  {
+    "quote": "If you can’t find a reason to fight, then you shouldn’t be fighting.",
+    "character": "Akame",
+    "anime": "Akame ga Kill!"
+  },
+  {
+    "quote": "No one knows what the future holds. That's why its potential is infinite.",
+    "character": "Okabe Rintaro",
+    "anime": "Steins;Gate"
+  },
+  {
+    "quote": "Every journey begins with a single step. We just have to have patience.",
+    "character": "Milly Thompson",
+    "anime": "Trigun"
+  },
+  {
+    "quote": "The moment you think of giving up, think of the reason why you held on for so long.",
+    "character": "Natsu Dragneel",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "Stand up and walk. Keep moving forward. You've got two good legs. So get up and use them.",
+    "character": "Edward Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "You can't always hold on to the things that are important. By letting them go, we gain something else.",
+    "character": "Tomoyo Daidouji",
+    "anime": "Cardcaptor Sakura"
+  },
+  {
+    "quote": "You will never be able to love anybody else until you love yourself.",
+    "character": "Lelouch Lamperouge",
+    "anime": "Code Geass"
+  },
+  {
+    "quote": "Do you know why the big brother is born first? It's to protect the little brothers and sisters that come after him.",
+    "character": "Ichigo Kurosaki",
+    "anime": "Bleach"
+  },
+  {
+    "quote": "When you're in a pinch, that's when you have to smile.",
+    "character": "Reiko Mikami",
+    "anime": "Ghost Sweeper Mikami"
+  },
+  {
+    "quote": "An excellent leader must be passionate because it's their duty to keep everyone moving forward.",
+    "character": "Erza Scarlet",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "I want to be strong enough to not have to hurt anyone.",
+    "character": "Thorfinn",
+    "anime": "Vinland Saga"
+  },
+  {
+    "quote": "I'm not weird. I'm just different from you.",
+    "character": "L",
+    "anime": "Death Note"
+  },
+  {
+    "quote": "I am the bone of my sword.",
+    "character": "Archer (EMIYA)",
+    "anime": "Fate/stay night: Unlimited Blade Works"
+  },
+  {
+    "quote": "Even if we're not confident that we'll win, even if others tell us we don't stand a chance, we must never tell ourselves that.",
+    "character": "Daichi Sawamura",
+    "anime": "Haikyuu!!"
+  },
+  {
+    "quote": "The past is the past. It's the future that's important.",
+    "character": "Usagi Tsukino",
+    "anime": "Sailor Moon"
+  },
+  {
+    "quote": "Scars that you can't see are the hardest to heal.",
+    "character": "Nico Robin",
+    "anime": "One Piece"
+  },
+  {
+    "quote": "It's meaningless to just live, and it's meaningless to just fight. I want to win.",
+    "character": "Ichigo Kurosaki",
+    "anime": "Bleach"
+  },
+  {
+    "quote": "What is a king without a kingdom? A king without a kingdom is not a king.",
+    "character": "Ozymandias",
+    "anime": "Fate/Grand Order"
+  },
+  {
+    "quote": "A man's romance is to live until he dies!",
+    "character": "Gajeel Redfox",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "If you are to be a king, you must be the one to live a more vibrant life than anyone else!",
+    "character": "Kyojuro Rengoku",
+    "anime": "Demon Slayer: Kimetsu no Yaiba"
+  },
+  {
+    "quote": "The weak have no rights or choices. Their only fate is to be crushed by the strong!",
+    "character": "Giyu Tomioka",
+    "anime": "Demon Slayer: Kimetsu no Yaiba"
+  },
+  {
+    "quote": "No matter how many people you may lose, you have no choice but to go on living -- no matter how devastating the blows, may be.",
+    "character": "Tanjiro Kamado",
+    "anime": "Demon Slayer: Kimetsu no Yaiba"
+  },
+  {
+    "quote": "No matter what you do, you're gonna die. So, why not have some fun?",
+    "character": "Ryuk",
+    "anime": "Death Note"
+  },
+  {
+    "quote": "Forgetting is like a wound. The wound may heal, but it has already left a scar.",
+    "character": "Monkey D. Luffy",
+    "anime": "One Piece"
+  },
+  {
+    "quote": "There's no way to know if your decision is right or wrong. The best you can do is make a decision you won't regret.",
+    "character": "Levi Ackerman",
+    "anime": "Attack on Titan"
+  },
+  {
+    "quote": "I want you to be happy. I want you to laugh a lot. I don't know what I'll be able to do for you, but I'll always be by your side.",
+    "character": "Kagome Higurashi",
+    "anime": "InuYasha"
+  },
+  {
+    "quote": "If I get reincarnated… I want to be a clam.",
+    "character": "Monkey D. Luffy",
+    "anime": "One Piece"
+  },
+  {
+    "quote": "It's not that 'gods' exist, it's that 'faith' exists.",
+    "character": "Shogo Makishima",
+    "anime": "Psycho-Pass"
+  },
+  {
+    "quote": "Sometimes, the things that matter the most are right in front of you.",
+    "character": "Yato",
+    "anime": "Noragami"
+  },
+  {
+    "quote": "Love is the reason why there is pain. When we lose someone precious to us, hate is born.",
+    "character": "Minato Namikaze",
+    "anime": "Naruto Shippuden"
+  },
+  {
+    "quote": "The only home that a man needs is in his heart.",
+    "character": "L",
+    "anime": "Death Note"
+  },
+  {
+    "quote": "Human beings are strong because we can change ourselves.",
+    "character": "Saitama",
+    "anime": "One-Punch Man"
+  },
+  {
+    "quote": "When does a man die? When he is hit by a bullet? No. When he suffers a disease? No. When he eats a soup made out of a poisonous mushroom? No! A man dies when he is forgotten.",
+    "character": "Dr. Hiluluk",
+    "anime": "One Piece"
+  },
+  {
+    "quote": "Anything can be a sword if you polish it enough.",
+    "character": "Sakata Gintoki",
+    "anime": "Gintama"
+  },
+  {
+    "quote": "The difference between a novice and a master is that a master has failed more times than a novice has tried.",
+    "character": "Koro-sensei",
+    "anime": "Assassination Classroom"
+  },
+  {
+    "quote": "If you just submit yourself to fate, then that's the end of it.",
+    "character": "Keiichi Maebara",
+    "anime": "Higurashi: When They Cry"
+  },
+  {
+    "quote": "Even if I'm a monster, I still have the right to live!",
+    "character": "Gaara",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "A place where someone still thinks about you is a place you can call home.",
+    "character": "Jiraiya",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "You can die anytime, but living takes true courage.",
+    "character": "Kenshin Himura",
+    "anime": "Rurouni Kenshin"
+  },
+  {
+    "quote": "Throughout Heaven and Earth, I alone am the honored one.",
+    "character": "Satoru Gojo",
+    "anime": "Jujutsu Kaisen"
+  },
+  {
+    "quote": "Power comes in response to a need, not a desire. You have to create that need.",
+    "character": "Goku",
+    "anime": "Dragon Ball Z"
+  },
+  {
+    "quote": "It's not the face that makes someone a monster, it's the choices they make with their lives.",
+    "character": "Naruto Uzumaki",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "I'll use my head, and I'll think. I'll use my head to survive!",
+    "character": "Emma",
+    "anime": "The Promised Neverland"
+  },
+  {
+    "quote": "There's no 'I' in 'team', but there is an 'I' in 'win'!",
+    "character": "Katsuki Bakugo",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "Even if you're not here, you're always in my heart.",
+    "character": "Sora",
+    "anime": "Kingdom Hearts"
+  },
+  {
+    "quote": "The sound of the Gion Shoja bells echoes the impermanence of all things.",
+    "character": "Narrator",
+    "anime": "The Heike Story"
+  },
+  {
+    "quote": "When you're scared, that's all the more reason to move forward!",
+    "character": "Usopp",
+    "anime": "One Piece"
+  },
+  {
+    "quote": "Being 'number one' is meaningless if there's no 'number two' to compare yourself to.",
+    "character": "Kageyama Tobio",
+    "anime": "Haikyuu!!"
+  },
+  {
+    "quote": "I am not a tool, I'm a person!",
+    "character": "Violet Evergarden",
+    "anime": "Violet Evergarden"
+  },
+  {
+    "quote": "You're a kid. You shouldn't have to see this kind of thing.",
+    "character": "Kento Nanami",
+    "anime": "Jujutsu Kaisen"
+  },
+  {
+    "quote": "What do you do when there's an evil you cannot defeat by just means? Do you stain your hands with evil to destroy evil? Or do you remain steadfastly just and righteous even if it means surrendering to evil?",
+    "character": "Lelouch vi Britannia",
+    "anime": "Code Geass"
+  },
+  {
+    "quote": "The only thing that can overcome a monster is another monster.",
+    "character": "Alucard",
+    "anime": "Hellsing Ultimate"
+  },
+  {
+    "quote": "We are all like fireworks: we climb, we shine and always go our separate ways and become further apart. But even if that time comes, let's not disappear like a firework and continue to shine... forever.",
+    "character": "Hitsugaya Toshiro",
+    "anime": "Bleach"
+  },
+  {
+    "quote": "There are some flowers you only see when you take a detour.",
+    "character": "Tanaka Saeko",
+    "anime": "Haikyuu!!"
+  },
+  {
+    "quote": "Sometimes I do feel like I'm a failure. Like there's no hope for me. But even so, I'm not going to give up. Ever!",
+    "character": "Izuku Midoriya (Deku)",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "I'll do what I want till the end. Cut me down if you want.",
+    "character": "Roronoa Zoro",
+    "anime": "One Piece"
+  },
+  {
+    "quote": "Even if I can't see you... even if we're separated far apart... I'll always be watching you.",
+    "character": "Makarov Dreyar",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "Push through the pain, giving up hurts more.",
+    "character": "Vegeta",
+    "anime": "Dragon Ball Z"
+  },
+  {
+    "quote": "It is foolish to fear what we have yet to see and know.",
+    "character": "Itachi Uchiha",
+    "anime": "Naruto Shippuden"
+  },
+  {
+    "quote": "If you don't share someone's pain, you can never understand them.",
+    "character": "Pain (Nagato)",
+    "anime": "Naruto Shippuden"
+  },
+  {
+    "quote": "If it's your hand that's stopping you, then I'll just have to cut it off!",
+    "character": "Shoto Todoroki",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "You're gonna carry that weight.",
+    "character": "Jet Black",
+    "anime": "Cowboy Bebop"
+  },
+  {
+    "quote": "We're not partners. We're not friends. We're rivals!",
+    "character": "Seto Kaiba",
+    "anime": "Yu-Gi-Oh!"
+  },
+  {
+    "quote": "A dropout will beat a genius through hard work.",
+    "character": "Rock Lee",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "There's no such thing as a painless lesson, they just don't exist.",
+    "character": "Erwin Smith",
+    "anime": "Attack on Titan"
+  },
+  {
+    "quote": "A real sin is something you can never atone for.",
+    "character": "Ban",
+    "anime": "The Seven Deadly Sins"
+  },
+  {
+    "quote": "I want to see and understand the world outside. I don't want to die inside these walls without knowing what's out there.",
+    "character": "Eren Yeager",
+    "anime": "Attack on Titan"
+  },
+  {
+    "quote": "It may be hard right now, but you must silence those thoughts. Stop counting only those things you have lost. What is gone, is gone.",
+    "character": "Jinbe",
+    "anime": "One Piece"
+  },
+  {
+    "quote": "In their heart, everyone is a king.",
+    "character": "Askeladd",
+    "anime": "Vinland Saga"
+  },
+  {
+    "quote": "Laws are not perfect, because humans who created laws are not perfect.",
+    "character": "Soichiro Yagami",
+    "anime": "Death Note"
+  },
+  {
+    "quote": "Don't ever give up. Even if it's painful, even if it's agonizing, don't try to take the easy way out.",
+    "character": "Zenitsu Agatsuma",
+    "anime": "Demon Slayer: Kimetsu no Yaiba"
+  },
+  {
+    "quote": "The name of the organization is El Psy Kongroo. It is a meaningless name with a nice ring to it, which I decided on a whim.",
+    "character": "Okabe Rintaro",
+    "anime": "Steins;Gate"
+  },
+  {
+    "quote": "I refuse to let my fear control me anymore.",
+    "character": "Maka Albarn",
+    "anime": "Soul Eater"
+  },
+  {
+    "quote": "Talent is something you make bloom. Instinct is something you polish.",
+    "character": "Tooru Oikawa",
+    "anime": "Haikyuu!!"
+  },
+  {
+    "quote": "Even if things are painful and tough, people should appreciate what it means to be alive at all.",
+    "character": "Yato",
+    "anime": "Noragami"
+  },
+  {
+    "quote": "If you keep on hiding your true feelings, who is going to be happy? If you are sad, you should say it out loud!",
+    "character": "Haruhi Fujioka",
+    "anime": "Ouran High School Host Club"
+  },
+  {
+    "quote": "I'll make you a deal. You help me, and I'll help you. And we'll get through this together.",
+    "character": "Taiga Aisaka",
+    "anime": "Toradora!"
+  },
+  {
+    "quote": "Once you've met someone, you never really forget them. It just takes a while for your memories to return.",
+    "character": "Zeniba",
+    "anime": "Spirited Away"
+  },
+  {
+    "quote": "Get up, and look up. The sky is bigger than the ground.",
+    "character": "Rei Kiriyama",
+    "anime": "March Comes In Like a Lion"
+  },
+  {
+    "quote": "If you have time to fantasize about a beautiful death, then why not live beautifully until the end?",
+    "character": "Sakata Gintoki",
+    "anime": "Gintama"
+  },
+  {
+    "quote": "I’m just a guy who’s a hero for fun.",
+    "character": "Saitama",
+    "anime": "One-Punch Man"
+  },
+  {
+    "quote": "The things I've seen... the things I've done... they're all a part of me.",
+    "character": "Guts",
+    "anime": "Berserk"
+  },
+  {
+    "quote": "The only ones who can miss a kick are those who have the courage to kick.",
+    "character": "Roberto Hongo",
+    "anime": "Captain Tsubasa"
+  },
+  {
+    "quote": "What good are dreams if all you do is work? There's more to life than hitting the books, I hope you know.",
+    "character": "Tamaki Suoh",
+    "anime": "Ouran High School Host Club"
+  },
+  {
+    "quote": "A dream is something you have to grab with your own hands.",
+    "character": "Umi Sonoda",
+    "anime": "Love Live! School Idol Project"
+  },
+  {
+    "quote": "If you don't like it, change it. If you can't change it, change your attitude.",
+    "character": "Maya Angelou",
+    "anime": "Gakkou Gurashi!"
+  },
+  {
+    "quote": "There’s no such thing as a painless lesson, they just don’t exist.",
+    "character": "Erwin Smith",
+    "anime": "Attack on Titan"
+  },
+  {
+    "quote": "If you can't do something, then you do something else.",
+    "character": "Akane Tsunemori",
+    "anime": "Psycho-Pass"
+  },
+  {
+    "quote": "It's not that I can't fall in love. It's just that I'm afraid of getting hurt.",
+    "character": "Yuki Nagato",
+    "anime": "The Melancholy of Haruhi Suzumiya"
+  },
+  {
+    "quote": "I'm not strong, I'm just lucky.",
+    "character": "Eren Yeager",
+    "anime": "Attack on Titan"
+  },
+  {
+    "quote": "It's not about being the best. It's about being better than you were yesterday.",
+    "character": "Kakashi Hatake",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "I'm not going to run away, I never go back on my word! That's my nindo: my ninja way!",
+    "character": "Naruto Uzumaki",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "When a man learns to love, he must bear the risk of hatred.",
+    "character": "Obito Uchiha",
+    "anime": "Naruto Shippuden"
+  },
+  {
+    "quote": "If I don't have to do it, I won't. If I have to do it, I'll make it quick.",
+    "character": "Houtarou Oreki",
+    "anime": "Hyouka"
+  },
+  {
+    "quote": "People are not born equal, that's the hard truth.",
+    "character": "Izuku Midoriya (Deku)",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "You can't win a game by just defending. You can't score points and you can't win.",
+    "character": "Lelouch vi Britannia",
+    "anime": "Code Geass"
+  },
+  {
+    "quote": "The path of a hero is not an easy one. You must be prepared to make sacrifices.",
+    "character": "All Might",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "I am not a protagonist. I am an observer. A chronicler of events.",
+    "character": "Kyon",
+    "anime": "The Melancholy of Haruhi Suzumiya"
+  },
+  {
+    "quote": "The world is not beautiful, and that is why it is beautiful.",
+    "character": "Kino",
+    "anime": "Kino's Journey"
+  },
+  {
+    "quote": "It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.",
+    "character": "Lelouch vi Britannia",
+    "anime": "Code Geass"
+  },
+  {
+    "quote": "The true measure of a shinobi is not how he lives, but how he dies.",
+    "character": "Jiraiya",
+    "anime": "Naruto Shippuden"
+  },
+  {
+    "quote": "I'm not a pervert... I'm a super pervert!",
+    "character": "Jiraiya",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "It is not that I am a pervert, it is that I am a man of culture.",
+    "character": "Master Roshi",
+    "anime": "Dragon Ball"
+  },
+  {
+    "quote": "There is no such thing as a worthless person. Everyone has a purpose in life.",
+    "character": "Tohru Honda",
+    "anime": "Fruits Basket"
+  },
+  {
+    "quote": "I'm not a child anymore. I'm a woman.",
+    "character": "Asuna Yuuki",
+    "anime": "Sword Art Online"
+  },
+  {
+    "quote": "I'm not a hero. I'm just a guy who likes to help people.",
+    "character": "Saitama",
+    "anime": "One-Punch Man"
+  },
+  {
+    "quote": "I'm not a monster. I'm a human being.",
+    "character": "Ken Kaneki",
+    "anime": "Tokyo Ghoul"
+  },
+  {
+    "quote": "It's not that I'm a good person. It's just that I can't stand by and do nothing.",
+    "character": "Shirou Emiya",
+    "anime": "Fate/stay night"
+  },
+  {
+    "quote": "I'm not going to let anyone die on my watch!",
+    "character": "Eren Yeager",
+    "anime": "Attack on Titan"
+  },
+  {
+    "quote": "I'm not going to let you get away with this!",
+    "character": "Goku",
+    "anime": "Dragon Ball Z"
+  },
+  {
+    "quote": "I'm not a coward. I'm just careful.",
+    "character": "Usopp",
+    "anime": "One Piece"
+  },
+  {
+    "quote": "I'm not a liar. I'm just a storyteller.",
+    "character": "Koro-sensei",
+    "anime": "Assassination Classroom"
+  },
+  {
+    "quote": "I'm not a princess. I'm a queen.",
+    "character": "Erza Scarlet",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "I'm not a villain. I'm a misunderstood hero.",
+    "character": "Light Yagami",
+    "anime": "Death Note"
+  },
+  {
+    "quote": "I'm not a child. I'm a grown-up.",
+    "character": "Shinji Ikari",
+    "anime": "Neon Genesis Evangelion"
+  },
+  {
+    "quote": "I'm not a girl. I'm a boy.",
+    "character": "Haruhi Fujioka",
+    "anime": "Ouran High School Host Club"
+  },
+  {
+    "quote": "I'm not a dog. I'm a wolf.",
+    "character": "Kiba Inuzuka",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "I'm not a cat. I'm a human.",
+    "character": "Yoruichi Shihoin",
+    "anime": "Bleach"
+  },
+  {
+    "quote": "I'm not a fish. I'm a mermaid.",
+    "character": "Lucy Heartfilia",
+    "anime": "Fairy Tail"
+  },
+  {
+    "quote": "I'm not a robot. I'm a cyborg.",
+    "character": "Genos",
+    "anime": "One-Punch Man"
+  },
+  {
+    "quote": "I'm not a demon. I'm a devil.",
+    "character": "Rin Okumura",
+    "anime": "Blue Exorcist"
+  },
+  {
+    "quote": "I'm not a ghost. I'm a spirit.",
+    "character": "Yusuke Urameshi",
+    "anime": "Yu Yu Hakusho"
+  },
+  {
+    "quote": "I'm not a god. I'm a human.",
+    "character": "Edward Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "I'm not a monster. I'm a vampire.",
+    "character": "Alucard",
+    "anime": "Hellsing Ultimate"
+  },
+  {
+    "quote": "I'm not a hero. I'm a villain.",
+    "character": "Shigaraki Tomura",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "I'm not a child. I'm a teenager.",
+    "character": "Gon Freecss",
+    "anime": "Hunter x Hunter"
+  },
+  {
+    "quote": "I'm not a human. I'm a ghoul.",
+    "character": "Touka Kirishima",
+    "anime": "Tokyo Ghoul"
+  },
+  {
+    "quote": "I'm not a princess. I'm a warrior.",
+    "character": "Asuna Yuuki",
+    "anime": "Sword Art Online"
+  },
+  {
+    "quote": "I'm not a girl. I'm a man.",
+    "character": "Katsuki Bakugo",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "I'm not a dog. I'm a cat.",
+    "character": "Kyo Sohma",
+    "anime": "Fruits Basket"
+  },
+  {
+    "quote": "I'm not a fish. I'm a dolphin.",
+    "character": "Haruka Nanase",
+    "anime": "Free!"
+  },
+  {
+    "quote": "I'm not a robot. I'm a human.",
+    "character": "Aigis",
+    "anime": "Persona 3"
+  },
+  {
+    "quote": "I'm not a demon. I'm a human.",
+    "character": "Inuyasha",
+    "anime": "InuYasha"
+  },
+  {
+    "quote": "I'm not a ghost. I'm a human.",
+    "character": "Menma",
+    "anime": "Anohana: The Flower We Saw That Day"
+  },
+  {
+    "quote": "I'm not a god. I'm a devil.",
+    "character": "Lucifer",
+    "anime": "The Devil Is a Part-Timer!"
+  },
+  {
+    "quote": "I'm not a monster. I'm a human.",
+    "character": "Eren Yeager",
+    "anime": "Attack on Titan"
+  },
+  {
+    "quote": "I'm not a hero. I'm a pirate.",
+    "character": "Monkey D. Luffy",
+    "anime": "One Piece"
+  },
+  {
+    "quote": "I'm not a child. I'm a shinobi.",
+    "character": "Sasuke Uchiha",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "I'm not a human. I'm a saiyan.",
+    "character": "Vegeta",
+    "anime": "Dragon Ball Z"
+  },
+  {
+    "quote": "I'm not a princess. I'm a pirate.",
+    "character": "Nami",
+    "anime": "One Piece"
+  },
+  {
+    "quote": "I'm not a girl. I'm a boy.",
+    "character": "Nagisa Shiota",
+    "anime": "Assassination Classroom"
+  },
+  {
+    "quote": "I'm not a dog. I'm a wolf.",
+    "character": "San",
+    "anime": "Princess Mononoke"
+  },
+  {
+    "quote": "I'm not a fish. I'm a human.",
+    "character": "Ponyo",
+    "anime": "Ponyo"
+  },
+  {
+    "quote": "I'm not a robot. I'm a girl.",
+    "character": "Chii",
+    "anime": "Chobits"
+  },
+  {
+    "quote": "I'm not a demon. I'm a human.",
+    "character": "Nezuko Kamado",
+    "anime": "Demon Slayer: Kimetsu no Yaiba"
+  },
+  {
+    "quote": "I'm not a ghost. I'm a god.",
+    "character": "Yato",
+    "anime": "Noragami"
+  },
+  {
+    "quote": "I'm not a god. I'm a human.",
+    "character": "Koro-sensei",
+    "anime": "Assassination Classroom"
+  },
+  {
+    "quote": "I'm not a monster. I'm a hero.",
+    "character": "Saitama",
+    "anime": "One-Punch Man"
+  },
+  {
+    "quote": "I'm not a hero. I'm a vigilante.",
+    "character": "Stain",
+    "anime": "My Hero Academia"
+  },
+  {
+    "quote": "I'm not a child. I'm a king.",
+    "character": "Sinbad",
+    "anime": "Magi: The Labyrinth of Magic"
+  },
+  {
+    "quote": "I'm not a human. I'm a monster.",
+    "character": "Meruem",
+    "anime": "Hunter x Hunter"
+  },
+  {
+    "quote": "I'm not a princess. I'm a soldier.",
+    "character": "Mikasa Ackerman",
+    "anime": "Attack on Titan"
+  },
+  {
+    "quote": "I'm not a girl. I'm a boy.",
+    "character": "Haku",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "I'm not a dog. I'm a fox.",
+    "character": "Tomoe",
+    "anime": "Kamisama Kiss"
+  },
+  {
+    "quote": "I'm not a fish. I'm a shark.",
+    "character": "Rin Matsuoka",
+    "anime": "Free!"
+  },
+  {
+    "quote": "I'm not a robot. I'm a ghost in the shell.",
+    "character": "Motoko Kusanagi",
+    "anime": "Ghost in the Shell"
+  },
+  {
+    "quote": "I'm not a demon. I'm a god.",
+    "character": "Ryuk",
+    "anime": "Death Note"
+  },
+  {
+    "quote": "I'm not a ghost. I'm a memory.",
+    "character": "Tifa Lockhart",
+    "anime": "Final Fantasy VII: Advent Children"
+  },
+  {
+    "quote": "I'm not a god. I'm a monster.",
+    "character": "Johan Liebert",
+    "anime": "Monster"
+  },
+  {
+    "quote": "I'm not a monster. I'm a doctor.",
+    "character": "Kenzo Tenma",
+    "anime": "Monster"
+  },
+  {
+    "quote": "I'm not a hero. I'm a detective.",
+    "character": "L",
+    "anime": "Death Note"
+  },
+  {
+    "quote": "I'm not a child. I'm a man.",
+    "character": "Simon",
+    "anime": "Tengen Toppa Gurren Lagann"
+  },
+  {
+    "quote": "I'm not a human. I'm a god.",
+    "character": "Light Yagami",
+    "anime": "Death Note"
+  },
+  {
+    "quote": "I'm not a princess. I'm a revolutionary.",
+    "character": "Utena Tenjou",
+    "anime": "Revolutionary Girl Utena"
+  },
+  {
+    "quote": "I'm not a girl. I'm a prince.",
+    "character": "Oscar François de Jarjayes",
+    "anime": "The Rose of Versailles"
+  },
+  {
+    "quote": "I'm not a dog. I'm a ninja dog.",
+    "character": "Pakkun",
+    "anime": "Naruto"
+  },
+  {
+    "quote": "I'm not a fish. I'm a goldfish princess.",
+    "character": "Ponyo",
+    "anime": "Ponyo"
+  },
+  {
+    "quote": "I'm not a robot. I'm a doll.",
+    "character": "Shinku",
+    "anime": "Rozen Maiden"
+  },
+  {
+    "quote": "I'm not a demon. I'm a devil.",
+    "character": "Satan",
+    "anime": "The Devil Is a Part-Timer!"
+  },
+  {
+    "quote": "I'm not a ghost. I'm a soul.",
+    "character": "Soul Evans",
+    "anime": "Soul Eater"
+  },
+  {
+    "quote": "I'm not a god. I'm a king.",
+    "character": "Gilgamesh",
+    "anime": "Fate/Zero"
+  },
+  {
+    "quote": "I'm not a monster. I'm a hunter.",
+    "character": "Killua Zoldyck",
+    "anime": "Hunter x Hunter"
+  },
+  {
+    "quote": "I'm not a hero. I'm a soldier.",
+    "character": "Roy Mustang",
+    "anime": "Fullmetal Alchemist: Brotherhood"
+  },
+  {
+    "quote": "I'm not a child. I'm a wizard.",
+    "character": "Aladdin",
+    "anime": "Magi: The Labyrinth of Magic"
+  },
+  {
+    "quote": "I'm not a human. I'm a demon.",
+    "character": "Sebastian Michaelis",
+    "anime": "Black Butler"
+  },
+  {
+    "quote": "I'm not a princess. I'm a queen.",
+    "character": "Hiyori Iki",
+    "anime": "Noragami"
+  },
+  {
+    "quote": "I'm not a girl. I'm a boy.",
+    "character": "Crona",
+    "anime": "Soul Eater"
+  },
+  {
+    "quote": "I'm not a dog. I'm a wolf.",
+    "character": "Holo",
+    "anime": "Spice and Wolf"
+  },
+  {
+    "quote": "I'm not a fish. I'm a human.",
+    "character": "Chihiro Ogino",
+    "anime": "Spirited Away"
+  },
+  {
+    "quote": "I'm not a robot. I'm a human.",
+    "character": "Isla",
+    "anime": "Plastic Memories"
+  },
+  {
+    "quote": "I'm not a demon. I'm a human.",
+    "character": "Rin Okumura",
+    "anime": "Blue Exorcist"
+  },
+  {
+    "quote": "I'm not a ghost. I'm a human.",
+    "character": "Jinta Yadomi",
+    "anime": "Anohana: The Flower We Saw That Day"
+  },
+  {
+    "quote": "I'm not a god. I'm a human.",
+    "character": "Mugen",
+    "anime": "Samurai Champloo"
+  },
+  {
+    "quote": "I'm not a monster. I'm a human.",
+    "character": "Shinichi Izumi",
+    "anime": "Parasyte: The Maxim"
+  },
+  {
+    "quote": "I'm not a hero. I'm a student.",
+    "character": "Kiyotaka Ayanokoji",
+    "anime": "Classroom of the Elite"
+  }
+]

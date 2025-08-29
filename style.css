@@ -1,0 +1,76 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 97vh;
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c2e9d59-ee54-490e-bf96-5497f587844f/dgdpfi7-ce86e74c-6f8f-4ad8-9385-9e11f4dae81e.png/v1/fill/w_1200,h_666,q_70,strp/anime_4k_landscape_wallpaper_by_cyberxyt_dgdpfi7-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjI3MiIsInBhdGgiOiJcL2ZcLzljMmU5ZDU5LWVlNTQtNDkwZS1iZjk2LTU0OTdmNTg3ODQ0ZlwvZGdkcGZpNy1jZTg2ZTc0Yy02ZjhmLTRhZDgtOTM4NS05ZTExZjRkYWU4MWUucG5nIiwid2lkdGgiOiI8PTQwOTYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6rwIfG57k7OgNfHC7SWng0zqNjg4cTQQwI6Mn-pWDS4");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.container {
+  max-width: 500px;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.548);
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: 0px 0px 20px 5px black;
+}
+h1 {
+  position: absolute;
+  top: 10px;
+  font-size: 60px;
+  color: aliceblue;
+  text-shadow: 7px 7px 2px black;
+  text-align: center;
+}
+h2 {
+  font-family: sans-serif;
+  font-size: 30px;
+  text-shadow: 5px 5px 3px rgb(255, 255, 255);
+  text-align: center;
+}
+h3 {
+  font-weight: 900;
+  text-align: center;
+  line-height: 35px;
+  font-size: 25px;
+  width: 95%;
+  display: none;
+  letter-spacing: 1px;
+}
+button {
+  box-shadow: 0px 0px 20px 5px black;
+  width: 200px;
+  height: 50px;
+  cursor: pointer;
+  border-radius: 20px;
+  font-weight: 700;
+  font-size: 20px;
+  transition: 200ms;
+  margin: 20px;
+  background-color: rgb(98, 100, 250);
+}
+
+button:hover {
+  scale: 110%;
+  /* font-size: 20px; */
+  box-shadow: 0px 0px 5px 1px black;
+}
+@media only screen and (max-width: 600px) {
+  body {
+    height: 100vh;
+  }
+  .container {
+    max-width: 300px;
+  }
+  h1 {
+    top: 0px;
+    font-size: 45px;
+  }
+}
